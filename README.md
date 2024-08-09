@@ -1,3 +1,14 @@
+## APK Bundle
+This APK bundle : [FirstStep.apk](https://drive.google.com/file/d/1a0d_nyHKi3LI2igr_Uxiv9uFUT6nshgX/view?usp=sharing)
+## About Our App
+This application is an Indonesian MBTI test (16 personality) application which includes test features, chat with counsellors, personality descriptions and profiles. The test results on the application can be consulted with the counsellor through the chat feature (chat feature is in the development stage). Then on the profile, the user can change the profile photo, password and delete the account.
+## Repository Supporting This Application
+| Path               | Link Repository |
+|--------------------|-----------------|
+| Mobile Development | [FirstStep-App](https://github.com/FirstStep-Bangkit/FirstStep-App.git)               |
+| Cloud Computing    | [FirstStep-API](https://github.com/FirstStep-Bangkit/firststep-api.git)                |
+| Machine Learning   | [FirstStep-Model](this repository)                |
+
 # FirstStep-Model
 ## Gathering and Preparing Data
 The data we have obtained comes from the Kaggle website with the data name Personality Classification Data: 16 Personalities. This data consists of 60,000 rows and 62 columns, where 60 columns contain questions and 1 column contains 16 personality types.
